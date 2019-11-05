@@ -6,7 +6,6 @@
     "Type": "RoleWorkspace",
     "Alias": "systemRoleWorkspace"
   },
-  "IsDefault": true,
   "Description": "Системный профиль навигации",
   "NavigationItems": {
     "$type": "Comindware.Platform.Contracts.NavigationItemModel[], Comindware.Platform.Contracts",

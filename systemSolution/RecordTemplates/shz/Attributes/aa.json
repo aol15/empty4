@@ -4,11 +4,11 @@
     "$type": "Comindware.Platform.Contracts.GlobalAlias, Comindware.Platform.Contracts",
     "Type": "Attribute",
     "Owner": "shz",
-    "Alias": "bb"
+    "Alias": "aa"
   },
   "Type": "String",
   "Format": "PlainText",
-  "Name": "bb",
+  "Name": "aa",
   "IsSystem": false,
   "IsDisabled": false,
   "IsUnique": false,

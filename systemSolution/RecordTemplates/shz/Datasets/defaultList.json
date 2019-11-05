@@ -26,8 +26,7 @@
         "Name": "ИД",
         "Layout": {
           "$type": "Comindware.Platform.Contracts.ColumnLayoutModel, Comindware.Platform.Contracts",
-          "Flex": 1.0,
-          "Width": 0.0
+          "Flex": 1.0
         },
         "IsHidden": false
       },
@@ -46,8 +45,7 @@
         "Name": "Создан",
         "Layout": {
           "$type": "Comindware.Platform.Contracts.ColumnLayoutModel, Comindware.Platform.Contracts",
-          "Flex": 1.0,
-          "Width": 0.0
+          "Flex": 1.0
         },
         "IsHidden": false
       },
@@ -66,8 +64,7 @@
         "Name": "Дата создания",
         "Layout": {
           "$type": "Comindware.Platform.Contracts.ColumnLayoutModel, Comindware.Platform.Contracts",
-          "Flex": 1.0,
-          "Width": 0.0
+          "Flex": 1.0
         },
         "IsHidden": false
       },
@@ -86,8 +83,7 @@
         "Name": "В архиве",
         "Layout": {
           "$type": "Comindware.Platform.Contracts.ColumnLayoutModel, Comindware.Platform.Contracts",
-          "Flex": 1.0,
-          "Width": 0.0
+          "Flex": 1.0
         },
         "IsHidden": false
       },
@@ -106,8 +102,7 @@
         "Name": "Дата изменения",
         "Layout": {
           "$type": "Comindware.Platform.Contracts.ColumnLayoutModel, Comindware.Platform.Contracts",
-          "Flex": 1.0,
-          "Width": 0.0
+          "Flex": 1.0
         },
         "IsHidden": false
       },
@@ -126,8 +121,7 @@
         "Name": "Последний изменивший",
         "Layout": {
           "$type": "Comindware.Platform.Contracts.ColumnLayoutModel, Comindware.Platform.Contracts",
-          "Flex": 1.0,
-          "Width": 0.0
+          "Flex": 1.0
         },
         "IsHidden": false
       }
